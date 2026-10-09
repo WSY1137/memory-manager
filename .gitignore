@@ -1,28 +1,10 @@
-# OS
-.DS_Store
-Thumbs.db
+# 个人记忆数据（不入版本库）
+memory/knowledge/
+memory/archive/
+memory/project_memory.md
+memory/user_profile.md
 
-# Editor
-.vscode/
-.idea/
-*.swp
-*.swo
-
-# Logs
-*.log
-npm-debug.log*
-
-# Dependencies
-node_modules/
-
-# Build output
-dist/
-build/
-
-# Env
-.env
-.env.local
-
-# Backup
-*.backup.*
-.backup/
+# 临时文件
+*.tmp
+*.bak
+*~
